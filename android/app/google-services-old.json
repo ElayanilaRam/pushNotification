@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "660297498042",
+    "firebase_url": "https://pushandroid-17800.firebaseio.com",
+    "project_id": "pushandroid-17800",
+    "storage_bucket": "pushandroid-17800.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660297498042:android:7b1a258b3e2ef715ca3183",
+        "android_client_info": {
+          "package_name": "com.rncli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660297498042-33mbu8s1kl61js9ur43d6g4p6pq8611q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4WxMkpH2d8uztJhnOTrCEOMTs2cTEeK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660297498042-33mbu8s1kl61js9ur43d6g4p6pq8611q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
